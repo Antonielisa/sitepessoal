@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ9hPBJZR74urZYE83RyVkUEqtIXHOjImedmjlnYACfFlpRLqpe&usqp=CAU');
+    background-size: 350px 350px;
+    font-family: Harrington;
+    height: 110vh
+  }
+  
+  .menu {
+    background-color: lightgray;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: whitesmoke;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: teal;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
